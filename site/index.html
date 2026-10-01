@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Hotel Deal Scout</title>
+  <meta name="description" content="Hotels for sale in France within a €25m budget, found and assessed daily by an AI agent.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700&display=swap">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="masthead">
+    <div class="wrap masthead-inner">
+      <div class="brand">
+        <h1 class="wordmark">Hotel Deal Scout</h1>
+        <p class="tagline">Hotels for sale in France · budget up to <span id="budget">€25m</span> · searched daily by Claude</p>
+      </div>
+      <p class="updated" id="updated" aria-live="polite">Loading…</p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="tiles" aria-label="Summary">
+      <div class="tile tile-strong">
+        <p class="tile-label">Strong matches</p>
+        <p class="tile-value" id="kpi-strong">–</p>
+        <p class="tile-note">Score 80 or more</p>
+      </div>
+      <div class="tile">
+        <p class="tile-label">Possible matches</p>
+        <p class="tile-value" id="kpi-possible">–</p>
+        <p class="tile-note">Score 50 to 79</p>
+      </div>
+      <div class="tile">
+        <p class="tile-label">New in the last 7 days</p>
+        <p class="tile-value" id="kpi-new">–</p>
+        <p class="tile-note">Any score</p>
+      </div>
+      <div class="tile">
+        <p class="tile-label">Official notices</p>
+        <p class="tile-value" id="kpi-signals">–</p>
+        <p class="tile-note">Hotel insolvencies and sales, 90 days</p>
+      </div>
+    </section>
+
+    <nav class="tabs" role="tablist" aria-label="Views">
+      <button class="tab" role="tab" id="tab-opportunities" aria-selected="true" aria-controls="panel-opportunities">Opportunities <span class="count" id="count-opportunities"></span></button>
+      <button class="tab" role="tab" id="tab-signals" aria-selected="false" aria-controls="panel-signals">Notices <span class="count" id="count-signals"></span></button>
+      <button class="tab" role="tab" id="tab-runs" aria-selected="false" aria-controls="panel-runs">Run log</button>
+    </nav>
+
+    <section id="panel-opportunities" role="tabpanel" aria-labelledby="tab-opportunities">
+      <div class="toolbar">
+        <div class="chips" role="group" aria-label="Show">
+          <button class="chip" id="filter-good" aria-pressed="true">Strong and possible</button>
+          <button class="chip" id="filter-strong" aria-pressed="false">Strong only</button>
+          <button class="chip" id="filter-all" aria-pressed="false">Everything</button>
+        </div>
+        <label class="search">
+          <span class="visually-hidden">Search</span>
+          <input type="search" id="search" placeholder="Search town, broker, title…" autocomplete="off">
+        </label>
+        <label class="sort">
+          <span>Sort by</span>
+          <select id="sort">
+            <option value="score">Best score</option>
+            <option value="newest">Newest first</option>
+            <option value="price">Lowest price</option>
+          </select>
+        </label>
+      </div>
+      <p class="result-line" id="result-line"></p>
+      <div id="opportunities" class="cards"></div>
+    </section>
+
+    <section id="panel-signals" role="tabpanel" aria-labelledby="tab-signals" hidden>
+      <p class="panel-intro">Notices from BODACC, France's official bulletin of company events, that mention a hotel business: insolvency proceedings and sales of a business. They are leads to follow up, not listings.</p>
+      <div class="table-scroll">
+        <table class="data-table">
+          <thead>
+            <tr><th scope="col">Published</th><th scope="col">Type</th><th scope="col">Company</th><th scope="col">Place</th><th scope="col">Activity</th><th scope="col">Notice</th></tr>
+          </thead>
+          <tbody id="signals"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section id="panel-runs" role="tabpanel" aria-labelledby="tab-runs" hidden>
+      <p class="panel-intro">Each daily run of the GitHub Actions workflow. Costs are estimates based on Claude's list prices.</p>
+      <div class="table-scroll">
+        <table class="data-table">
+          <thead>
+            <tr><th scope="col">Run</th><th scope="col" class="num">New</th><th scope="col" class="num">Assessed</th><th scope="col" class="num">Searches</th><th scope="col" class="num">Est. cost</th><th scope="col">Notes</th></tr>
+          </thead>
+          <tbody id="runs"></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <footer class="wrap footer">
+    <p>Scores and summaries are written by an AI from public web pages and can be wrong or out of date. Check the listing and talk to the broker before relying on anything here.</p>
+    <p id="footer-links"></p>
+  </footer>
+
+  <template id="card-template">
+    <article class="card">
+      <div class="score"><span class="score-value"></span><span class="score-label"></span></div>
+      <div class="card-body">
+        <h2 class="card-title"><a target="_blank" rel="noopener noreferrer"></a></h2>
+        <p class="card-meta"></p>
+        <ul class="facts"></ul>
+        <p class="summary"></p>
+        <div class="card-actions"></div>
+        <details class="more">
+          <summary>Assessment details</summary>
+          <div class="more-grid"></div>
+          <p class="provenance"></p>
+        </details>
+      </div>
+    </article>
+  </template>
+
+  <noscript><p class="wrap">This dashboard needs JavaScript to show the data.</p></noscript>
+  <script src="app.js"></script>
+</body>
+</html>

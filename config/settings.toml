@@ -1,0 +1,39 @@
+# Settings for the daily hotel scout. The investment brief itself lives in brief.md.
+
+[search]
+country = "FR"
+budget_eur = 25_000_000
+
+# Cost guards for each daily run. Web search costs $10 per 1,000 searches plus tokens.
+max_web_searches = 20     # searches the explorer may run
+max_web_fetches = 10      # pages the explorer may open
+max_candidates = 15       # finds the explorer may report
+max_new_assessments = 10  # new finds Claude assesses in detail
+max_reassessments = 40    # cap when re-assessing everything after a brief change
+
+# Sites whose terms forbid automated access, or that have sued scrapers.
+# Claude may still see them in search results but will not open their pages.
+# Use their own e-mail alerts instead.
+blocked_fetch_domains = ["leboncoin.fr", "seloger.com"]
+
+# Each run gives extra attention to one area, rotating daily, on top of a France-wide search.
+focus_regions = [
+  "Paris and Île-de-France",
+  "Provence-Alpes-Côte d'Azur (Nice, Cannes, Marseille, Provence)",
+  "Auvergne-Rhône-Alpes (Lyon, Annecy, the Alps)",
+  "Nouvelle-Aquitaine (Bordeaux, Biarritz, the Atlantic coast)",
+  "Occitanie (Toulouse, Montpellier, the Pyrenees)",
+  "Brittany and Normandy",
+  "Hauts-de-France and Grand Est (Lille, Strasbourg, Reims)",
+  "Pays de la Loire and Centre-Val de Loire (Nantes, the Loire Valley)",
+  "Bourgogne-Franche-Comté and Corsica",
+]
+
+[model]
+name = "claude-opus-5-5"
+effort = "medium"
+
+[bodacc]
+# Official French notices of insolvencies and business sales (free, no key needed).
+enabled = true
+days_back = 4

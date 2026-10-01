@@ -2,7 +2,9 @@
 
 An AI agent that searches the web for **hotels for sale in France within a €25 million budget** and puts every opportunity in a simple dashboard that the whole team can use.
 
-*Status: exploration and proposal, nothing built yet. Written 1 October 2026. Prices and legal points were checked on that date; see [Sources](#sources).*
+*Written 1 October 2026. Prices and legal points were checked on that date; see [Sources](#sources).*
+
+> **Update:** a first version is now in this repository. It is a lighter variant of option B: GitHub Actions runs the agent every morning and GitHub Pages hosts a public dashboard. See [section 12](#12-first-version-github-actions-and-github-pages) and the [README](../README.md).
 
 ---
 
@@ -424,6 +426,26 @@ Opus 5.5 list prices: $4 per million input tokens and $20 per million output tok
 
 ---
 
+## 12. First version: GitHub Actions and GitHub Pages
+
+The team chose to start with a version that needs no servers. It takes option B's pipeline and puts it on GitHub.
+
+| Part | In option B | In this version |
+|---|---|---|
+| Scheduler and worker | A small EU virtual machine | A daily GitHub Actions workflow (`.github/workflows/daily-scout.yml`, 07:15 Paris time) |
+| Intake | Monitors, broker inbox, explorer agent, open data | The explorer agent (Claude web search) and BODACC notices. The inbox and site monitors come later |
+| AI analyst | Claude extraction and assessment | The same: Claude Opus 5.5 opens each new listing and scores it against `config/brief.md` |
+| Storage | Postgres | JSON files in `data/`, committed by the workflow, so git keeps the history |
+| Dashboard | Web app with single sign-on | A static page on GitHub Pages (`site/`) |
+| Team statuses and comments | Built into the dashboard | GitHub issues: one per hotel, with status labels such as `status: shortlist` |
+
+**What this trades away:**
+- **Privacy.** On a personal GitHub account, a Pages site is public even when the repository is private, and this repository is public too. Anyone can see which hotels are tracked and how they score. To go private later, make the repository private (Actions keeps working within its 2,000 free minutes a month) and move the dashboard behind a login. One way is Cloudflare Pages with Cloudflare Access; another is GitHub Enterprise Cloud's private Pages.
+- **Interactive editing.** Statuses and comments live in GitHub issues rather than on the dashboard itself.
+- **Exact timing.** GitHub runs schedules on a best-effort basis, so a run can start a few minutes late.
+
+---
+
 ## Sources
 
 Checked on 1 October 2026.
@@ -453,3 +475,6 @@ Checked on 1 October 2026.
 - CJEU *CV-Online Latvia* (C-762/19): <https://www.twobirds.com/en/insights/2021/uk/cv-online-latvia-cjeu-complicates-the-enforcement-of-database-rights>
 - *BoligPortal v ReData* (Denmark, 2025): <https://legalblogs.wolterskluwer.com/copyright-blog/eu-copyright-law-roundup-fourth-trimester-of-2025/>
 - CNIL guidance on web scraping and legitimate interest (June 2025): <https://www.cnil.fr/fr/focus-interet-legitime-collecte-par-moissonnage>
+- GitHub Pages visibility (public unless GitHub Enterprise Cloud): <https://docs.github.com/en/enterprise-cloud@latest/pages/getting-started-with-github-pages/changing-the-visibility-of-your-github-pages-site>
+- GitHub Actions schedules with a time zone (March 2026): <https://github.blog/changelog/2026-03-19-github-actions-late-march-2026-updates/>
+- Claude web search tool (versions, `user_location`, `pause_turn`): <https://platform.claude.com/docs/en/agents-and-tools/tool-use/web-search-tool>

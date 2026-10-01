@@ -1,0 +1,123 @@
+name: Daily hotel scout
+
+on:
+  schedule:
+    # Every morning at 07:15 Paris time. A few minutes past the hour avoids GitHub's busiest moment.
+    - cron: "15 7 * * *"
+      timezone: "Europe/Paris"
+  workflow_dispatch:
+    inputs:
+      reassess:
+        description: "Also re-assess hotels scored with an older version of the brief"
+        type: boolean
+        default: false
+  push:
+    # Republish the dashboard when its code changes (no search on these runs).
+    paths:
+      - "site/**"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: hotel-scout
+  cancel-in-progress: false
+
+jobs:
+  scout:
+    name: Search and assess
+    if: github.event_name != 'push'
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    permissions:
+      contents: write # save results to data/
+      issues: read # read team statuses from issue labels
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Search, assess and collect notices
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GITHUB_TOKEN: ${{ github.token }}
+          REASSESS_FLAG: ${{ inputs.reassess && '--reassess' || '' }}
+        run: python -m scout $REASSESS_FLAG
+
+      - name: Save results to the repository
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "No changes to save."
+            exit 0
+          fi
+          git commit -m "Scout results for $(date -u +%Y-%m-%d)"
+          for attempt in 1 2 3; do
+            git push && exit 0
+            git pull --rebase origin "$GITHUB_REF_NAME"
+          done
+          exit 1
+
+  deploy:
+    name: Publish dashboard
+    needs: scout
+    if: >-
+      always()
+      && needs.scout.result != 'cancelled'
+      && (github.event_name != 'push' || github.ref_name == github.event.repository.default_branch)
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Check that GitHub Pages is switched on
+        id: pages
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          status=$(curl -s -o /dev/null -w "%{http_code}" \
+            -H "Authorization: Bearer $GH_TOKEN" -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/$GITHUB_REPOSITORY/pages")
+          if [ "$status" = "200" ]; then
+            echo "enabled=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "::notice::GitHub Pages is not switched on yet. Go to Settings > Pages and set Source to 'GitHub Actions'; the dashboard publishes on the next run."
+            echo "enabled=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/checkout@v5
+        if: steps.pages.outputs.enabled == 'true'
+        with:
+          ref: ${{ github.ref }} # the branch tip, including results the scout job just saved
+
+      - name: Assemble the site
+        if: steps.pages.outputs.enabled == 'true'
+        run: |
+          mkdir -p _site/data
+          cp -r site/. _site/
+          cp data/*.json _site/data/
+
+      - uses: actions/configure-pages@v6
+        if: steps.pages.outputs.enabled == 'true'
+
+      - uses: actions/upload-pages-artifact@v5
+        if: steps.pages.outputs.enabled == 'true'
+        with:
+          path: _site
+
+      - id: deployment
+        if: steps.pages.outputs.enabled == 'true'
+        uses: actions/deploy-pages@v5
