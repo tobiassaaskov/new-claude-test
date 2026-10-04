@@ -1,6 +1,96 @@
 {
   "signals": [
     {
+      "id": "A202601903023",
+      "date": "2026-10-04",
+      "kind": "insolvency",
+      "family": "Procédures collectives",
+      "notice": "Avis initial",
+      "company": "SARL HOTELIERE DE CARENTAN, HOTELIERE DU COTENTIN",
+      "town": "Carentan-les-marais",
+      "postcode": "50500",
+      "departement": "Manche",
+      "activity": "",
+      "judgment": "Dépôt de l'état des créances",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202601903023",
+      "first_seen": "2026-10-04"
+    },
+    {
+      "id": "A20260190342",
+      "date": "2026-10-04",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "RST HÔTEL, J.C.P.V.",
+      "town": "Tracy-sur-Mer, Arromanches-les-Bains",
+      "postcode": "14117",
+      "departement": "Calvados",
+      "activity": "bar, brasserie, restaurant, vente à emporter",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20260190342",
+      "first_seen": "2026-10-04"
+    },
+    {
+      "id": "A202601902930",
+      "date": "2026-10-04",
+      "kind": "insolvency",
+      "family": "Procédures collectives",
+      "notice": "Avis initial",
+      "company": "HOTEL D'ARVOR",
+      "town": "Dinan",
+      "postcode": "22100",
+      "departement": "Ille-et-Vilaine",
+      "activity": "",
+      "judgment": "Jugement de plan de redressement",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202601902930",
+      "first_seen": "2026-10-04"
+    },
+    {
+      "id": "A202601902972",
+      "date": "2026-10-04",
+      "kind": "insolvency",
+      "family": "Procédures collectives",
+      "notice": "Avis initial",
+      "company": "Alios Hôtel Restaurant",
+      "town": "Bas-Mauco",
+      "postcode": "40500",
+      "departement": "Landes",
+      "activity": "",
+      "judgment": "Jugement de conversion en liquidation judiciaire",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202601902972",
+      "first_seen": "2026-10-04"
+    },
+    {
+      "id": "A202601902160",
+      "date": "2026-10-04",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "Combo Plaisir, PLAISIR SAINT NAZAIRE INVEST HOTELS",
+      "town": "Paris 16e Arrondissement, Plaisir",
+      "postcode": "75016, 78370",
+      "departement": "Yvelines",
+      "activity": "un fonds de commerce de hotel connu sous l'enseigne campanile",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202601902160",
+      "first_seen": "2026-10-04"
+    },
+    {
+      "id": "A202601902161",
+      "date": "2026-10-04",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "Combo Plaisir, PLAISIR SAINT NAZAIRE INVEST HOTELS",
+      "town": "Paris 16e Arrondissement, Plaisir",
+      "postcode": "75016, 78370",
+      "departement": "Yvelines",
+      "activity": "un fonds de commerce de hotel connu sous l'enseigne première classe",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202601902161",
+      "first_seen": "2026-10-04"
+    },
+    {
       "id": "A202601891467",
       "date": "2026-10-02",
       "kind": "sale",
@@ -301,5 +391,5 @@
       "first_seen": "2026-10-02"
     }
   ],
-  "updated_at": "2026-10-03T10:23:53+00:00"
+  "updated_at": "2026-10-04T11:05:59+00:00"
 }
