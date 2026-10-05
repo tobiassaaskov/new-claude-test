@@ -1,6 +1,16 @@
 {
   "runs": [
     {
+      "started_at": "2026-10-05T12:14:50+00:00",
+      "brief_version": "bdf85e79",
+      "errors": [
+        "ANTHROPIC_API_KEY is not set, so Claude did not search. Add it under Settings > Secrets and variables > Actions."
+      ],
+      "signals_new": 0,
+      "bodacc_note": "full-text query",
+      "finished_at": "2026-10-05T12:14:51+00:00"
+    },
+    {
       "started_at": "2026-10-04T11:05:58+00:00",
       "brief_version": "bdf85e79",
       "errors": [
