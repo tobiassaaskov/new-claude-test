@@ -1,6 +1,111 @@
 {
   "signals": [
     {
+      "id": "A202601915368",
+      "date": "2026-10-06",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "Commune de Sceaux, L'OISEAU LIVRES",
+      "town": "Sceaux",
+      "postcode": "92330",
+      "departement": "Hauts-de-Seine",
+      "activity": "achat gestion de tous fonds de commerce de librairie papeterie journaux pressé prestations de services se rapportant à l'hôtellerie",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202601915368",
+      "first_seen": "2026-10-06"
+    },
+    {
+      "id": "A202601913493",
+      "date": "2026-10-06",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "Dyhya Management, HÔTEL DE FRANCE",
+      "town": "Perpignan",
+      "postcode": "66000",
+      "departement": "Pyrénées-Orientales",
+      "activity": "Partie d'activité concernée : L'exploitation de tous fonds de commerce d'hôtel ; L'exploitation et la gestion hôtelière, la réalisation de prestations para-hôtelières.",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202601913493",
+      "first_seen": "2026-10-06"
+    },
+    {
+      "id": "A202601916154",
+      "date": "2026-10-06",
+      "kind": "insolvency",
+      "family": "Procédures collectives",
+      "notice": "Avis initial",
+      "company": "INTERNATIONAL HOTEL SA",
+      "town": "Millau",
+      "postcode": "12100",
+      "departement": "Aveyron",
+      "activity": "",
+      "judgment": "Jugement d'ouverture d'une procédure de redressement judiciaire",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202601916154",
+      "first_seen": "2026-10-06"
+    },
+    {
+      "id": "A202601912825",
+      "date": "2026-10-06",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "CAFE LE ROYAL, SARL HOTEL ROYAL",
+      "town": "Creutzwald",
+      "postcode": "57150",
+      "departement": "Moselle",
+      "activity": "hôtel - restaurant - débit de boissons exploitation de jeux automatiques",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202601912825",
+      "first_seen": "2026-10-06"
+    },
+    {
+      "id": "A202601915931",
+      "date": "2026-10-06",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "HEBERGEMENT YACINE, SOCIETE HOTELIERE DES INDES",
+      "town": "Argenteuil",
+      "postcode": "95100",
+      "departement": "Val-d'Oise",
+      "activity": "fonds de commerce d'hôtel social",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202601915931",
+      "first_seen": "2026-10-06"
+    },
+    {
+      "id": "A202601916166",
+      "date": "2026-10-06",
+      "kind": "insolvency",
+      "family": "Procédures collectives",
+      "notice": "Avis initial",
+      "company": "MILLAU HOTEL CLUB SARL",
+      "town": "Millau",
+      "postcode": "12100",
+      "departement": "Aveyron",
+      "activity": "",
+      "judgment": "Jugement de clôture pour extinction du passif",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202601916166",
+      "first_seen": "2026-10-06"
+    },
+    {
+      "id": "A20260191209",
+      "date": "2026-10-06",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "Société Hôtelière Baie des Anges",
+      "town": "Antibes",
+      "postcode": "06600",
+      "departement": "Alpes-Maritimes",
+      "activity": "",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20260191209",
+      "first_seen": "2026-10-06"
+    },
+    {
       "id": "A202601903023",
       "date": "2026-10-04",
       "kind": "insolvency",
@@ -391,5 +496,5 @@
       "first_seen": "2026-10-02"
     }
   ],
-  "updated_at": "2026-10-05T12:14:51+00:00"
+  "updated_at": "2026-10-06T12:00:30+00:00"
 }
