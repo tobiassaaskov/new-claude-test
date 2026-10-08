@@ -1,6 +1,51 @@
 {
   "signals": [
     {
+      "id": "A202601932915",
+      "date": "2026-10-08",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "CONNEXION HERBLAY, LOURDES INVEST HOTELS",
+      "town": "Paris 16e Arrondissement, Herblay-sur-Seine",
+      "postcode": "75016, 95220",
+      "departement": "Val-d'Oise",
+      "activity": "hôtel",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202601932915",
+      "first_seen": "2026-10-08"
+    },
+    {
+      "id": "A202601932425",
+      "date": "2026-10-08",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "ANVALANA, Pignoux, Gérard Remy",
+      "town": "L'Île-d'Elle",
+      "postcode": "85770",
+      "departement": "Vendée",
+      "activity": "Exploitation d'un fonds de commerce de camping-caravaning, hôtellerie de plein air, location d'emplacements, location de bungalows, chalets et Mobil-homes, petite restauration avec vente de boissons alcoolisées, épicerie, Jounaux, location d'équipements sportifs",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202601932425",
+      "first_seen": "2026-10-08"
+    },
+    {
+      "id": "A202601933255",
+      "date": "2026-10-08",
+      "kind": "insolvency",
+      "family": "Procédures collectives",
+      "notice": "Avis initial",
+      "company": "HOTEL D'ALBION",
+      "town": "Toulouse",
+      "postcode": "31000",
+      "departement": "Haute-Garonne",
+      "activity": "",
+      "judgment": "Dépôt de l'état des créances",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202601933255",
+      "first_seen": "2026-10-08"
+    },
+    {
       "id": "A202601915368",
       "date": "2026-10-06",
       "kind": "sale",
@@ -496,5 +541,5 @@
       "first_seen": "2026-10-02"
     }
   ],
-  "updated_at": "2026-10-07T11:46:01+00:00"
+  "updated_at": "2026-10-08T12:00:33+00:00"
 }
