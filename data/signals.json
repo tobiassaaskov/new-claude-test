@@ -1,6 +1,81 @@
 {
   "signals": [
     {
+      "id": "A202601941467",
+      "date": "2026-10-09",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "HDS, HOTEL DU SOLEIL",
+      "town": "Aillon-le-Jeune",
+      "postcode": "73340",
+      "departement": "Savoie",
+      "activity": "exploitation d'établissements d'hôtellerie, restauration, pension de famille, toutes activités de locations meublées, petits déjeuners, salle de réception pour évènements, toutes activités de traiteur et de vente de plat cuisinés à emporter.",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202601941467",
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "A202601943390",
+      "date": "2026-10-09",
+      "kind": "insolvency",
+      "family": "Procédures collectives",
+      "notice": "Avis initial",
+      "company": "L'HOTEL DES TCHOUMJEU",
+      "town": "Lourdes",
+      "postcode": "65100",
+      "departement": "Hautes-Pyrénées",
+      "activity": "",
+      "judgment": "Jugement de conversion en liquidation judiciaire",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202601943390",
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "A202601943770",
+      "date": "2026-10-09",
+      "kind": "insolvency",
+      "family": "Procédures collectives",
+      "notice": "Avis initial",
+      "company": "ALBE ET POSTE HOTEL",
+      "town": "Paris",
+      "postcode": "75017",
+      "departement": "Paris",
+      "activity": "",
+      "judgment": "Jugement d'ouverture de liquidation judiciaire",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202601943770",
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "A20260194289",
+      "date": "2026-10-09",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "PARCS DE LOISIRS, JUNIOR CLUB HOUSE",
+      "town": "Ussel, Liginiac",
+      "postcode": "19200, 19160",
+      "departement": "Corrèze",
+      "activity": "l'organisation de loisirs touristiques, de journées cynégétiques, de journées de pêche, de journées de tennis, de journées de quad, de journées à thème, de ball-trap, de parcours de tirs sur cibles mouvantes ; l'organisation de séminaires, de réunions, de salons, d'actions de relations publiques, de",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20260194289",
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "A202601943145",
+      "date": "2026-10-09",
+      "kind": "insolvency",
+      "family": "Procédures collectives",
+      "notice": "Avis initial",
+      "company": "EXPLOITATION HOTELIERE DE CARQUEFOU",
+      "town": "Carquefou",
+      "postcode": "44470",
+      "departement": "Loire-Atlantique",
+      "activity": "",
+      "judgment": "Jugement d'ouverture d'une procédure de sauvegarde",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202601943145",
+      "first_seen": "2026-10-09"
+    },
+    {
       "id": "A202601932915",
       "date": "2026-10-08",
       "kind": "sale",
@@ -541,5 +616,5 @@
       "first_seen": "2026-10-02"
     }
   ],
-  "updated_at": "2026-10-08T12:00:33+00:00"
+  "updated_at": "2026-10-09T11:52:45+00:00"
 }
