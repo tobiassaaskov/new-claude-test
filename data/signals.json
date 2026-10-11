@@ -1,6 +1,66 @@
 {
   "signals": [
     {
+      "id": "A202601952653",
+      "date": "2026-10-11",
+      "kind": "insolvency",
+      "family": "Procédures collectives",
+      "notice": "Avis initial",
+      "company": "SARL RESTAURATION HOTELIERE DEAUVILLE-SAINT ARNOULT R.H.D.A",
+      "town": "Évreux",
+      "postcode": "27000",
+      "departement": "Eure",
+      "activity": "",
+      "judgment": "Jugement d'ouverture d'une procédure de redressement judiciaire",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202601952653",
+      "first_seen": "2026-10-11"
+    },
+    {
+      "id": "A202601951050",
+      "date": "2026-10-11",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "SARL SERAZED, LE GUE DE GENES",
+      "town": "Elbeuf, Ambrières-les-Vallées",
+      "postcode": "76500, 53300",
+      "departement": "Mayenne",
+      "activity": "hotel restaurant bar",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202601951050",
+      "first_seen": "2026-10-11"
+    },
+    {
+      "id": "A20260195838",
+      "date": "2026-10-11",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "EMERAUDE DES BOIS, LAVANCIER-LABORIE",
+      "town": "Mimizan",
+      "postcode": "40200",
+      "departement": "Landes",
+      "activity": "hôtel bar restaurant",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20260195838",
+      "first_seen": "2026-10-11"
+    },
+    {
+      "id": "A202601952005",
+      "date": "2026-10-11",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "RGM TOURISM, CHEZ ALBERT",
+      "town": "Loudun",
+      "postcode": "86200",
+      "departement": "Vienne",
+      "activity": "Hôtellerie et hébergement avec prestations hôtelières.",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202601952005",
+      "first_seen": "2026-10-11"
+    },
+    {
       "id": "A202601941467",
       "date": "2026-10-09",
       "kind": "sale",
@@ -616,5 +676,5 @@
       "first_seen": "2026-10-02"
     }
   ],
-  "updated_at": "2026-10-10T11:09:37+00:00"
+  "updated_at": "2026-10-11T11:23:19+00:00"
 }
