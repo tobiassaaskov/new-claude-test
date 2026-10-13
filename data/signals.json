@@ -1,6 +1,96 @@
 {
   "signals": [
     {
+      "id": "A202601965125",
+      "date": "2026-10-13",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "DOLET ZOLA, NAIT SLIMANI, Semail",
+      "town": "Alfortville",
+      "postcode": "94140",
+      "departement": "Val-de-Marne",
+      "activity": "café hôtel",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202601965125",
+      "first_seen": "2026-10-13"
+    },
+    {
+      "id": "A202601965345",
+      "date": "2026-10-13",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "CONNEXION HERBLAY, LOURDES INVEST HOTELS",
+      "town": "Paris 16e Arrondissement, Herblay-sur-Seine",
+      "postcode": "75016, 95220",
+      "departement": "Val-d'Oise",
+      "activity": "exploitation d'hôtel meublé (murs et fonds)",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202601965345",
+      "first_seen": "2026-10-13"
+    },
+    {
+      "id": "A202601964478",
+      "date": "2026-10-13",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "AJ, SOCIETE COMMERCIALE DES HOTELS ECONOMIQUES",
+      "town": "Sorgues",
+      "postcode": "84700",
+      "departement": "Vaucluse",
+      "activity": "hôtel sans restauration",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202601964478",
+      "first_seen": "2026-10-13"
+    },
+    {
+      "id": "A202601965882",
+      "date": "2026-10-13",
+      "kind": "insolvency",
+      "family": "Procédures collectives",
+      "notice": "Avis initial",
+      "company": "MSVM, MV HOLDING, SOCIETE TANIA, SARL HOTEL Ô, MARGUERITTE",
+      "town": "Lattes, Bages",
+      "postcode": "34970, 11100",
+      "departement": "Hérault",
+      "activity": "",
+      "judgment": "Jugement de plan de redressement",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202601965882",
+      "first_seen": "2026-10-13"
+    },
+    {
+      "id": "A20260196695",
+      "date": "2026-10-13",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "SACY, HOTELLERIE DE LA FERME SAINT HUBERT",
+      "town": "Colleville-Montgomery",
+      "postcode": "14880",
+      "departement": "Calvados",
+      "activity": "l'exploitation, sous quelque forme que ce soit, de tout fonds de commerce de restauration, brasserie, café, débit de boissons (sans vente d'alcool), restaurant traditionnel, restauration rapide, sur place ou à emporter",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20260196695",
+      "first_seen": "2026-10-13"
+    },
+    {
+      "id": "A202601962956",
+      "date": "2026-10-13",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "ISS GRILL, BRIE AUVERGNE INVEST HOTELS",
+      "town": "Issoire",
+      "postcode": "63500",
+      "departement": "Puy-de-Dôme",
+      "activity": "hôtel restaurant",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202601962956",
+      "first_seen": "2026-10-13"
+    },
+    {
       "id": "A202601952653",
       "date": "2026-10-11",
       "kind": "insolvency",
@@ -676,5 +766,5 @@
       "first_seen": "2026-10-02"
     }
   ],
-  "updated_at": "2026-10-12T13:07:38+00:00"
+  "updated_at": "2026-10-13T12:41:18+00:00"
 }
