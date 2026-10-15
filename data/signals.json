@@ -1,6 +1,66 @@
 {
   "signals": [
     {
+      "id": "A202601981577",
+      "date": "2026-10-15",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "HOTEL ARCADIE MONTPARNASSE, SCI MAUPASSANT",
+      "town": "Paris",
+      "postcode": "75008",
+      "departement": "Paris",
+      "activity": "",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202601981577",
+      "first_seen": "2026-10-15"
+    },
+    {
+      "id": "A2026019828",
+      "date": "2026-10-15",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "SARL VILLA MEDUSA, MDS EVENT",
+      "town": "Nice, Saint-Laurent-du-Var",
+      "postcode": "06200, 06700",
+      "departement": "Alpes-Maritimes",
+      "activity": "Restauration, hôtellerie et salon de thé.",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A2026019828",
+      "first_seen": "2026-10-15"
+    },
+    {
+      "id": "A20260198131",
+      "date": "2026-10-15",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "ALB Hôtel Du Lac & Restaurant, HOTEL DU LAC",
+      "town": "Foix",
+      "postcode": "09000",
+      "departement": "Ariège",
+      "activity": "Restauration hôtellerie.",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20260198131",
+      "first_seen": "2026-10-15"
+    },
+    {
+      "id": "A20260198527",
+      "date": "2026-10-15",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "Restaurant l'ABC, COMPOSTELLE",
+      "town": "Solaure-en-Diois, Die",
+      "postcode": "26150",
+      "departement": "Drôme",
+      "activity": "Un fonds de commerce de Bar Hôtel Restaurant",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20260198527",
+      "first_seen": "2026-10-15"
+    },
+    {
       "id": "A202601965125",
       "date": "2026-10-13",
       "kind": "sale",
@@ -766,5 +826,5 @@
       "first_seen": "2026-10-02"
     }
   ],
-  "updated_at": "2026-10-14T10:09:52+00:00"
+  "updated_at": "2026-10-15T09:52:21+00:00"
 }
