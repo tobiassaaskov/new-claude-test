@@ -1,6 +1,111 @@
 {
   "signals": [
     {
+      "id": "A202601993287",
+      "date": "2026-10-16",
+      "kind": "insolvency",
+      "family": "Procédures collectives",
+      "notice": "Avis initial",
+      "company": "HOTEL RESTAURANT DES LACS D'HALCO",
+      "town": "Hagetmau",
+      "postcode": "40700",
+      "departement": "Landes",
+      "activity": "",
+      "judgment": "Jugement prononçant la résolution du plan de redressement et la liquidation judiciaire",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202601993287",
+      "first_seen": "2026-10-16"
+    },
+    {
+      "id": "A2026019933",
+      "date": "2026-10-16",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "B612, KODO HOTELLERIE",
+      "town": "Saint-Laurent-du-Var, La Gaude",
+      "postcode": "06700, 06610",
+      "departement": "Alpes-Maritimes",
+      "activity": "Hôtel restaurant",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A2026019933",
+      "first_seen": "2026-10-16"
+    },
+    {
+      "id": "A202601993955",
+      "date": "2026-10-16",
+      "kind": "insolvency",
+      "family": "Procédures collectives",
+      "notice": "Avis initial",
+      "company": "FERTE LAC HOTEL",
+      "town": "La ferté-bernard",
+      "postcode": "72400",
+      "departement": "Sarthe",
+      "activity": "",
+      "judgment": "Dépôt de l'état des créances",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202601993955",
+      "first_seen": "2026-10-16"
+    },
+    {
+      "id": "A2026019942",
+      "date": "2026-10-16",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "TRIO, REMY",
+      "town": "Nice, Beaulieu-sur-Mer",
+      "postcode": "06000, 06310",
+      "departement": "Alpes-Maritimes",
+      "activity": "hôtel - bar evènementiel",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A2026019942",
+      "first_seen": "2026-10-16"
+    },
+    {
+      "id": "A20260199119",
+      "date": "2026-10-16",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "AUDE GESTION, THANJO",
+      "town": "Paris 8e Arrondissement, Carcassonne",
+      "postcode": "75008, 11000",
+      "departement": "Aude",
+      "activity": "toutes opérations commerciales se rapportant à l'activité d'hôtel et à l'organisation de toutes manifestations la location de chambres meublées",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20260199119",
+      "first_seen": "2026-10-16"
+    },
+    {
+      "id": "A20260199676",
+      "date": "2026-10-16",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "HOTEL HERACLES, LES LAPS",
+      "town": "Bédarieux",
+      "postcode": "34600",
+      "departement": "Hérault",
+      "activity": "exploitation d'hôtel - vente de produits régionaux, articles de souvenirs, dérivés et accessoires.",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20260199676",
+      "first_seen": "2026-10-16"
+    },
+    {
+      "id": "A20260199799",
+      "date": "2026-10-16",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "GROUPE HES, MSB",
+      "town": "Châteauroux",
+      "postcode": "36000",
+      "departement": "Indre",
+      "activity": "l'exploitation d'un hôtel.",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20260199799",
+      "first_seen": "2026-10-16"
+    },
+    {
       "id": "A202601981577",
       "date": "2026-10-15",
       "kind": "sale",
@@ -826,5 +931,5 @@
       "first_seen": "2026-10-02"
     }
   ],
-  "updated_at": "2026-10-15T09:52:21+00:00"
+  "updated_at": "2026-10-16T09:46:05+00:00"
 }
