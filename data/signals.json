@@ -1,6 +1,126 @@
 {
   "signals": [
     {
+      "id": "A20260200908",
+      "date": "2026-10-18",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "ZAK FAMILY PREMIERE ESCALE, COTE ECO",
+      "town": "Perreux",
+      "postcode": "42120",
+      "departement": "Loire",
+      "activity": "un fonds de commerce d'hôtel restaurant.",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20260200908",
+      "first_seen": "2026-10-18"
+    },
+    {
+      "id": "A202602001329",
+      "date": "2026-10-18",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "SEH BRUAY B, ECO HOTEL",
+      "town": "Bruay-la-Buissière, Bruay-La-Buissiere",
+      "postcode": "62700",
+      "departement": "Pas-de-Calais",
+      "activity": "L'acquisition et l'exploitation commerciale de fonds de commerce, d'hôtels meublés ou non, restaurants, pensions de famille, bars avec ou sans grande licence",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602001329",
+      "first_seen": "2026-10-18"
+    },
+    {
+      "id": "A202602003166",
+      "date": "2026-10-18",
+      "kind": "insolvency",
+      "family": "Procédures collectives",
+      "notice": "Avis initial",
+      "company": "SCI L'Hôtel Enfoncé",
+      "town": "Le Val-d'Ajol",
+      "postcode": "88340",
+      "departement": "Vosges",
+      "activity": "",
+      "judgment": "Jugement d'ouverture d'une procédure de redressement judiciaire",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602003166",
+      "first_seen": "2026-10-18"
+    },
+    {
+      "id": "A202602001038",
+      "date": "2026-10-18",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "SOCIETE HOTELIERE DU GRAND OUEST, SCI DE L'HOTEL DE TOURS SUD",
+      "town": "Nantes",
+      "postcode": "44000",
+      "departement": "Loire-Atlantique",
+      "activity": "",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602001038",
+      "first_seen": "2026-10-18"
+    },
+    {
+      "id": "A202602001036",
+      "date": "2026-10-18",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "SCI DE L'HOTEL DE TOURS SUD",
+      "town": "Nantes",
+      "postcode": "44000",
+      "departement": "Loire-Atlantique",
+      "activity": "",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602001036",
+      "first_seen": "2026-10-18"
+    },
+    {
+      "id": "A202602001037",
+      "date": "2026-10-18",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "SOCIETE HOTELIERE DU GRAND OUEST, SCI DE L'HOTEL DE CHAMBRAY LES TOURS",
+      "town": "Nantes",
+      "postcode": "44000",
+      "departement": "Loire-Atlantique",
+      "activity": "",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602001037",
+      "first_seen": "2026-10-18"
+    },
+    {
+      "id": "A202602003161",
+      "date": "2026-10-18",
+      "kind": "insolvency",
+      "family": "Procédures collectives",
+      "notice": "Avis initial",
+      "company": "L'Hôtel Enfoncé",
+      "town": "Le Val-d'Ajol",
+      "postcode": "88340",
+      "departement": "Vosges",
+      "activity": "",
+      "judgment": "Jugement d'ouverture d'une procédure de redressement judiciaire",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602003161",
+      "first_seen": "2026-10-18"
+    },
+    {
+      "id": "A202602001035",
+      "date": "2026-10-18",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "SCI DE L'HOTEL DE CHAMBRAY LES TOURS",
+      "town": "Nantes",
+      "postcode": "44000",
+      "departement": "Loire-Atlantique",
+      "activity": "",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602001035",
+      "first_seen": "2026-10-18"
+    },
+    {
       "id": "A202601993287",
       "date": "2026-10-16",
       "kind": "insolvency",
@@ -931,5 +1051,5 @@
       "first_seen": "2026-10-02"
     }
   ],
-  "updated_at": "2026-10-17T09:19:04+00:00"
+  "updated_at": "2026-10-18T09:33:55+00:00"
 }
