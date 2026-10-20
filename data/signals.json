@@ -1,6 +1,96 @@
 {
   "signals": [
     {
+      "id": "A202602011810",
+      "date": "2026-10-20",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "COMBO MOIRANS GRENOBLNE, HOTEL GRIL HOTEL BUREAU DE MOIRANS",
+      "town": "Bourgoin-Jallieu, Moirans",
+      "postcode": "38300, 38430",
+      "departement": "Isère",
+      "activity": "Un hôtel trois étoiles avec restaurant de quarante-sept (47) chambres, exploité sous l'enseigne Campanile.",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602011810",
+      "first_seen": "2026-10-20"
+    },
+    {
+      "id": "A202602015009",
+      "date": "2026-10-20",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "LINAYA, BABANOU",
+      "town": "Bormes-les-Mimosas",
+      "postcode": "83230",
+      "departement": "Var",
+      "activity": "Hôtel restaurant",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602015009",
+      "first_seen": "2026-10-20"
+    },
+    {
+      "id": "A202602017908",
+      "date": "2026-10-20",
+      "kind": "insolvency",
+      "family": "Procédures collectives",
+      "notice": "Avis initial",
+      "company": "HOTEL LA PRISON",
+      "town": "Beaune",
+      "postcode": "21200",
+      "departement": "Côte-d'Or",
+      "activity": "",
+      "judgment": "Dépôt de l'état des créances",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602017908",
+      "first_seen": "2026-10-20"
+    },
+    {
+      "id": "A202602013482",
+      "date": "2026-10-20",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "CASA ARIMA, AMANTIS",
+      "town": "Paris 15e Arrondissement, Biarritz",
+      "postcode": "75015, 64200",
+      "departement": "Pyrénées-Atlantiques",
+      "activity": "hôtellerie",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602013482",
+      "first_seen": "2026-10-20"
+    },
+    {
+      "id": "A202602011348",
+      "date": "2026-10-20",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "S3C HOTEL, HOTEL ALIENOR LANGON",
+      "town": "Langon",
+      "postcode": "33210",
+      "departement": "Gironde",
+      "activity": "la propriété et l'exploitation de tous fonds de commerce d'hôtel, par création, acquisition, location, la gestion, l'exploitation et l'administration de tous établissements à usage hôtelier, parahôtelier ;",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602011348",
+      "first_seen": "2026-10-20"
+    },
+    {
+      "id": "A202602012693",
+      "date": "2026-10-20",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "LES TROIS CHÊNES, ROYER, Olivier",
+      "town": "Andelot-Blancheville",
+      "postcode": "52700",
+      "departement": "Haute-Marne",
+      "activity": "l'exploitation d'un fonds de commerce et artisanal d'hôtel, restaurant, café, bar, vente de jeux de la française des jeux, pmu, jeux de grattage, jeux de hasard et jeux de paris",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602012693",
+      "first_seen": "2026-10-20"
+    },
+    {
       "id": "A20260200908",
       "date": "2026-10-18",
       "kind": "sale",
@@ -1051,5 +1141,5 @@
       "first_seen": "2026-10-02"
     }
   ],
-  "updated_at": "2026-10-19T10:43:28+00:00"
+  "updated_at": "2026-10-20T10:01:04+00:00"
 }
