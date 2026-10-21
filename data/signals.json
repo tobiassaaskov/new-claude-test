@@ -1,6 +1,51 @@
 {
   "signals": [
     {
+      "id": "A20260202669",
+      "date": "2026-10-21",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "SOCIETE D'HOTELLERIE BAR RESTAURANT",
+      "town": "Paris",
+      "postcode": "75008",
+      "departement": "Paris",
+      "activity": "",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20260202669",
+      "first_seen": "2026-10-21"
+    },
+    {
+      "id": "A20260202665",
+      "date": "2026-10-21",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "SAS SHACK, OVERSIGHT",
+      "town": "Paris",
+      "postcode": "75008",
+      "departement": "Paris",
+      "activity": "Cession branche complète et autonome d'activité de fourniture d'outils et de services technologiques auprès de sociétés hôtelières qu'elle assiste dans le cadre de leur gestion",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20260202665",
+      "first_seen": "2026-10-21"
+    },
+    {
+      "id": "A20260202670",
+      "date": "2026-10-21",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "SOCIETE HOTELIERE COTE ROTIE, SOCIETE D'HOTELLERIE BAR RESTAURANT",
+      "town": "Paris",
+      "postcode": "75008",
+      "departement": "Paris",
+      "activity": "",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20260202670",
+      "first_seen": "2026-10-21"
+    },
+    {
       "id": "A202602011810",
       "date": "2026-10-20",
       "kind": "sale",
@@ -1141,5 +1186,5 @@
       "first_seen": "2026-10-02"
     }
   ],
-  "updated_at": "2026-10-20T10:01:04+00:00"
+  "updated_at": "2026-10-21T10:06:03+00:00"
 }
