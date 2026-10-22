@@ -1,6 +1,96 @@
 {
   "signals": [
     {
+      "id": "A202602035118",
+      "date": "2026-10-22",
+      "kind": "insolvency",
+      "family": "Procédures collectives",
+      "notice": "Avis initial",
+      "company": "LACIDI HOTELLERIE",
+      "town": "Avignon",
+      "postcode": "84000",
+      "departement": "Vaucluse",
+      "activity": "",
+      "judgment": "Jugement de conversion en liquidation judiciaire",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602035118",
+      "first_seen": "2026-10-22"
+    },
+    {
+      "id": "A202602033323",
+      "date": "2026-10-22",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "JADE, GALA",
+      "town": "La Jaudonnière",
+      "postcode": "85110",
+      "departement": "Vendée",
+      "activity": "activité de prestations de mise à disposition occassionnelle saisonnière ou permanente d'hébergements touristiques ainsi que toutes prestations para-hotelière et toutes activités accessoires",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602033323",
+      "first_seen": "2026-10-22"
+    },
+    {
+      "id": "A202602034482",
+      "date": "2026-10-22",
+      "kind": "insolvency",
+      "family": "Procédures collectives",
+      "notice": "Avis initial",
+      "company": "JL INVEST HOTEL, LAVASTRE, Jean",
+      "town": "Arles, Saint-Aunes",
+      "postcode": "13200, 34130",
+      "departement": "Bouches-du-Rhône",
+      "activity": "",
+      "judgment": "Dépôt de l'état des créances et du projet de répartition",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602034482",
+      "first_seen": "2026-10-22"
+    },
+    {
+      "id": "A20260203189",
+      "date": "2026-10-22",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "TARANTINO'S, ROSSI FERRARI, Lucien",
+      "town": "Puilaurens",
+      "postcode": "11140",
+      "departement": "Aude",
+      "activity": "hôtel restaurant café discothèque n vente de souvenirs et produits régionaux",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20260203189",
+      "first_seen": "2026-10-22"
+    },
+    {
+      "id": "A20260203586",
+      "date": "2026-10-22",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "HOTELIERE DU GRAND SAINT JEAN",
+      "town": "Beaune",
+      "postcode": "21200",
+      "departement": "Côte-d'Or",
+      "activity": "",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20260203586",
+      "first_seen": "2026-10-22"
+    },
+    {
+      "id": "A202602032764",
+      "date": "2026-10-22",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "ASENSU, GREEN HOTEL",
+      "town": "Le Havre",
+      "postcode": "76600",
+      "departement": "Seine-Maritime",
+      "activity": "Hôtel bureau",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602032764",
+      "first_seen": "2026-10-22"
+    },
+    {
       "id": "A20260202669",
       "date": "2026-10-21",
       "kind": "sale",
@@ -1186,5 +1276,5 @@
       "first_seen": "2026-10-02"
     }
   ],
-  "updated_at": "2026-10-21T10:06:03+00:00"
+  "updated_at": "2026-10-22T10:08:36+00:00"
 }
