@@ -1,6 +1,51 @@
 {
   "signals": [
     {
+      "id": "A20260204968",
+      "date": "2026-10-23",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "CARRE VOYAGES, ALMAZ FRANCE",
+      "town": "Paris",
+      "postcode": "75008, 75009",
+      "departement": "Paris",
+      "activity": "Toutes opérations concernant l'agence de voyage et de tous spectacles, d'édition, de publicité, toutes opérations directe ou indirectes concernant le tourisme et les vacances la location de voiture toutes opérations de réservation d'organisation de voyages privés ou professionnels en gros ou individ",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20260204968",
+      "first_seen": "2026-10-23"
+    },
+    {
+      "id": "A202602042539",
+      "date": "2026-10-23",
+      "kind": "insolvency",
+      "family": "Procédures collectives",
+      "notice": "Avis initial",
+      "company": "NOUVEL EXPRESS HOTEL",
+      "town": "Perpignan",
+      "postcode": "66000",
+      "departement": "Pyrénées-Orientales",
+      "activity": "",
+      "judgment": "Dépôt de l'état des créances",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602042539",
+      "first_seen": "2026-10-23"
+    },
+    {
+      "id": "A202602042293",
+      "date": "2026-10-23",
+      "kind": "insolvency",
+      "family": "Procédures collectives",
+      "notice": "Avis initial",
+      "company": "HOTEL CRYSTAL",
+      "town": "Reims",
+      "postcode": "51100",
+      "departement": "Marne",
+      "activity": "",
+      "judgment": "Dépôt de l'état des créances",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602042293",
+      "first_seen": "2026-10-23"
+    },
+    {
       "id": "A202602035118",
       "date": "2026-10-22",
       "kind": "insolvency",
@@ -1276,5 +1321,5 @@
       "first_seen": "2026-10-02"
     }
   ],
-  "updated_at": "2026-10-22T10:08:36+00:00"
+  "updated_at": "2026-10-23T10:01:17+00:00"
 }
