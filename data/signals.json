@@ -1,6 +1,96 @@
 {
   "signals": [
     {
+      "id": "A2026020594",
+      "date": "2026-10-25",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "JPLB, SASU HOTEL DES CALANQUES",
+      "town": "Cassis",
+      "postcode": "13260",
+      "departement": "Bouches-du-Rhône",
+      "activity": "hôtel de tourisme",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A2026020594",
+      "first_seen": "2026-10-25"
+    },
+    {
+      "id": "A2026020515",
+      "date": "2026-10-25",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "LE CHAMOIS DE MOLINES, EYMEOUD, Marie, Jeanne, Catherine, MONETTO",
+      "town": "Molines-en-Queyras",
+      "postcode": "05350",
+      "departement": "Hautes-Alpes",
+      "activity": "Hôtellerie, restauration, hébergement et vente de presse (licence 4.",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A2026020515",
+      "first_seen": "2026-10-25"
+    },
+    {
+      "id": "A202602052765",
+      "date": "2026-10-25",
+      "kind": "insolvency",
+      "family": "Procédures collectives",
+      "notice": "Avis initial",
+      "company": "NEW HOTEL",
+      "town": "Saint-Gervais-la-Forêt",
+      "postcode": "41350",
+      "departement": "Loir-et-Cher",
+      "activity": "",
+      "judgment": "Jugement d'ouverture de liquidation judiciaire",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602052765",
+      "first_seen": "2026-10-25"
+    },
+    {
+      "id": "A202602052996",
+      "date": "2026-10-25",
+      "kind": "insolvency",
+      "family": "Procédures collectives",
+      "notice": "Avis initial",
+      "company": "RK Hôtel Society",
+      "town": "Le Sequestre",
+      "postcode": "81990",
+      "departement": "Tarn",
+      "activity": "",
+      "judgment": "Jugement d'ouverture d'une procédure de redressement judiciaire",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602052996",
+      "first_seen": "2026-10-25"
+    },
+    {
+      "id": "A202602051734",
+      "date": "2026-10-25",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "SARL HOTEL DE LA MER, DELCOURT, Eric, Alixis",
+      "town": "Veulettes-sur-Mer",
+      "postcode": "76450",
+      "departement": "Seine-Maritime",
+      "activity": "café, bar, brasserie rapide avec vente de boissons alcoolisées et non alcoolisées.",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602051734",
+      "first_seen": "2026-10-25"
+    },
+    {
+      "id": "A20260205680",
+      "date": "2026-10-25",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "COMBO MOIRANS GRENOBLE, HOTEL GRIL HOTEL BUREAU DE MOIRANS",
+      "town": "Bourgoin-Jallieu, Moirans",
+      "postcode": "38300, 38430",
+      "departement": "Isère",
+      "activity": "Exploitation d'un hôtel Campanile et toutes activités connexes concernant ce fonds.",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20260205680",
+      "first_seen": "2026-10-25"
+    },
+    {
       "id": "A20260204968",
       "date": "2026-10-23",
       "kind": "sale",
@@ -1321,5 +1411,5 @@
       "first_seen": "2026-10-02"
     }
   ],
-  "updated_at": "2026-10-24T09:30:28+00:00"
+  "updated_at": "2026-10-25T11:21:01+00:00"
 }
