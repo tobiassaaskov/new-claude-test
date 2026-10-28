@@ -1,6 +1,36 @@
 {
   "signals": [
     {
+      "id": "A20260207229",
+      "date": "2026-10-28",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "COMBO MOIRANS GRENOBLE, HOTEL GRIL HOTEL BUREAU DE MOIRANS",
+      "town": "Bourgoin-Jallieu, Moirans",
+      "postcode": "38300, 38430",
+      "departement": "Isère",
+      "activity": "Exploitation d'un hôtel première Classe et toutes activités connexes concernant ce fonds.",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20260207229",
+      "first_seen": "2026-10-28"
+    },
+    {
+      "id": "A202602071680",
+      "date": "2026-10-28",
+      "kind": "insolvency",
+      "family": "Procédures collectives",
+      "notice": "Avis initial",
+      "company": "C.D.H.CAZIN DISTRIBUTION HOTELLERIE EURL",
+      "town": "Bezons",
+      "postcode": "95870",
+      "departement": "Val-d'Oise",
+      "activity": "",
+      "judgment": "Jugement d'ouverture de liquidation judiciaire",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602071680",
+      "first_seen": "2026-10-28"
+    },
+    {
       "id": "A202602061889",
       "date": "2026-10-27",
       "kind": "sale",
@@ -1576,5 +1606,5 @@
       "first_seen": "2026-10-02"
     }
   ],
-  "updated_at": "2026-10-27T12:06:12+00:00"
+  "updated_at": "2026-10-28T12:47:20+00:00"
 }
