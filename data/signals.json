@@ -1,6 +1,81 @@
 {
   "signals": [
     {
+      "id": "A20260208250",
+      "date": "2026-10-29",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "SAS LA CHAUMIERE, ARNAULT, Philippe",
+      "town": "Aubigny-sur-Nère",
+      "postcode": "18700",
+      "departement": "Cher",
+      "activity": "La propriété et l'exploitation de tous hôtels, restaurants, bars, de toute nature et de toute catégorie et, plus généralement, de tous établissements se rapportant à l'hôtellerie, la restauration, le tourisme, les loisirs et les métiers de services",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20260208250",
+      "first_seen": "2026-10-29"
+    },
+    {
+      "id": "A20260208828",
+      "date": "2026-10-29",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "BATISSE ELODIE, AGNES M",
+      "town": "Ambert",
+      "postcode": "63600",
+      "departement": "Puy-de-Dôme",
+      "activity": "restaurant hôtel bar traiteur",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20260208828",
+      "first_seen": "2026-10-29"
+    },
+    {
+      "id": "A2026020847",
+      "date": "2026-10-29",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "RESIDENCE FOCH, VICTOIRE",
+      "town": "Vence",
+      "postcode": "06140",
+      "departement": "Alpes-Maritimes",
+      "activity": "Hôtel et hébergement similaire, prestations de service dans le tourisme, importation, exportation, achat et vent de tous produits non réglementés.",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A2026020847",
+      "first_seen": "2026-10-29"
+    },
+    {
+      "id": "A202602081897",
+      "date": "2026-10-29",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "EAU 2 DAMES, BELLIN, Hubert Marcel Auguste, Hubert, Marcel, Auguste",
+      "town": "Contrexéville",
+      "postcode": "88140",
+      "departement": "Vosges",
+      "activity": "l'exploitation directe ou indirecte de tous hôtels. - restaurant. - café.",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602081897",
+      "first_seen": "2026-10-29"
+    },
+    {
+      "id": "A20260208714",
+      "date": "2026-10-29",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "Bizot Restauration & Hôtellerie, IZANA",
+      "town": "Carnac",
+      "postcode": "56340",
+      "departement": "Morbihan",
+      "activity": "Un fonds de commerce d'exploitation d'un hôtel-bar Restaurant connu sous l'enseigne \"la Marine Hôtel.",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20260208714",
+      "first_seen": "2026-10-29"
+    },
+    {
       "id": "A20260207229",
       "date": "2026-10-28",
       "kind": "sale",
@@ -1606,5 +1681,5 @@
       "first_seen": "2026-10-02"
     }
   ],
-  "updated_at": "2026-10-28T12:47:20+00:00"
+  "updated_at": "2026-10-29T12:56:10+00:00"
 }
