@@ -1,6 +1,51 @@
 {
   "signals": [
     {
+      "id": "A20260209234",
+      "date": "2026-10-30",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "JPLB, SASU HOTEL DES CALANQUES",
+      "town": "Cassis",
+      "postcode": "13260",
+      "departement": "Bouches-du-Rhône",
+      "activity": "hôtel, chambres meublées avec petits déjeuners, pension de famille, animation, séminaires",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20260209234",
+      "first_seen": "2026-10-30"
+    },
+    {
+      "id": "A202602093032",
+      "date": "2026-10-30",
+      "kind": "insolvency",
+      "family": "Procédures collectives",
+      "notice": "Avis initial",
+      "company": "SNC AZUR HOTEL",
+      "town": "Salon-de-Provence",
+      "postcode": "13300",
+      "departement": "Bouches-du-Rhône",
+      "activity": "",
+      "judgment": "Jugement d'ouverture d'une procédure de redressement judiciaire",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602093032",
+      "first_seen": "2026-10-30"
+    },
+    {
+      "id": "A202602091642",
+      "date": "2026-10-30",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "Odette et Charlus, HOTEL CLEMENTINE, LMDS",
+      "town": "Paris",
+      "postcode": "75015",
+      "departement": "Paris",
+      "activity": "La restauration sur place ou à emporter, la petite restauration, bar, brasserie, débit de boissons toutes catégorie",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602091642",
+      "first_seen": "2026-10-30"
+    },
+    {
       "id": "A20260208250",
       "date": "2026-10-29",
       "kind": "sale",
@@ -1681,5 +1726,5 @@
       "first_seen": "2026-10-02"
     }
   ],
-  "updated_at": "2026-10-29T12:56:10+00:00"
+  "updated_at": "2026-10-30T12:48:58+00:00"
 }
