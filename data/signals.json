@@ -1,6 +1,81 @@
 {
   "signals": [
     {
+      "id": "A202602101005",
+      "date": "2026-10-31",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "Hôtel Le Moulin, BARBOT, Marie Helene",
+      "town": "Mérignac, Belin-Béliet",
+      "postcode": "33700, 33830",
+      "departement": "Gironde",
+      "activity": "fonds de commerce d'hôtellerie",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602101005",
+      "first_seen": "2026-10-31"
+    },
+    {
+      "id": "A202602101371",
+      "date": "2026-10-31",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis rectificatif",
+      "company": "COMBO MOIRANS GRENOBLE, HOTEL GRIL HOTEL BUREAU DE MOIRANS",
+      "town": "Bourgoin-Jallieu, Moirans",
+      "postcode": "38300, 38430",
+      "departement": "Isère",
+      "activity": "Un hôtel trois étoiles avec restaurant de quarante-sept (47) chambres, exploité sous l'enseigne Campanile.",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602101371",
+      "first_seen": "2026-10-31"
+    },
+    {
+      "id": "A202602105257",
+      "date": "2026-10-31",
+      "kind": "insolvency",
+      "family": "Procédures collectives",
+      "notice": "Avis initial",
+      "company": "LACIDI HOTELLERIE",
+      "town": "Avignon",
+      "postcode": "84000",
+      "departement": "Vaucluse",
+      "activity": "",
+      "judgment": "Dépôt de l'état des créances",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602105257",
+      "first_seen": "2026-10-31"
+    },
+    {
+      "id": "A202602102324",
+      "date": "2026-10-31",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "LAMALOU, SARL SPORTING HOTEL",
+      "town": "Thorigné-sur-Dué, La Bazoge, Cherré-Au, Lombron, Connerré, Coulans-sur-Gée, Ball",
+      "postcode": "72160, 72650, 72400, 72450, 72550, 72290, 72110, 72460",
+      "departement": "Sarthe",
+      "activity": "vente de pizzas à distributeur automatique; vente de pizzas par distributeur automatique",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602102324",
+      "first_seen": "2026-10-31"
+    },
+    {
+      "id": "A202602102211",
+      "date": "2026-10-31",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "LE 34, HRT",
+      "town": "Mulhouse",
+      "postcode": "68200",
+      "departement": "Haut-Rhin",
+      "activity": "exploitation et gestion d'un établissement de restauration et d'hôtellerie.",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602102211",
+      "first_seen": "2026-10-31"
+    },
+    {
       "id": "A20260209234",
       "date": "2026-10-30",
       "kind": "sale",
@@ -1726,5 +1801,5 @@
       "first_seen": "2026-10-02"
     }
   ],
-  "updated_at": "2026-10-30T12:48:58+00:00"
+  "updated_at": "2026-10-31T12:20:23+00:00"
 }
