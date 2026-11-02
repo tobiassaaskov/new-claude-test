@@ -1,6 +1,66 @@
 {
   "signals": [
     {
+      "id": "A202602112016",
+      "date": "2026-11-02",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "SOCIETE HOTELIERE DE STRASBOURG",
+      "town": "Strasbourg",
+      "postcode": "67000",
+      "departement": "Bas-Rhin",
+      "activity": "",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602112016",
+      "first_seen": "2026-11-02"
+    },
+    {
+      "id": "A20260211539",
+      "date": "2026-11-02",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "Maison Eléonore, SARL L'HOTEL FLEURI",
+      "town": "Montliot-et-Courcelles",
+      "postcode": "21400",
+      "departement": "Côte-d'Or",
+      "activity": "hostellerie, restauration sur place ou à emporter, vente de boissons (licence 1), petits déjeuners, location de vélos, vente de produits régionaux, dégustation et vente de vins à emporter, animations diverses",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20260211539",
+      "first_seen": "2026-11-02"
+    },
+    {
+      "id": "A20260211570",
+      "date": "2026-11-02",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "NEHOVE, EURL LA SARLADAISE",
+      "town": "Sarlat-la-Canéda",
+      "postcode": "24200",
+      "departement": "Dordogne",
+      "activity": "hôtel",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20260211570",
+      "first_seen": "2026-11-02"
+    },
+    {
+      "id": "A202602113356",
+      "date": "2026-11-02",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "LA ST DES BORDS DE SEINE, LA ROCHE",
+      "town": "La Roche-Guyon",
+      "postcode": "95780",
+      "departement": "Val-d'Oise",
+      "activity": "hôtel, chambres meublées, restaurant, brasserie, pizzeria, bar, salon de thé, traiteur, vente d'objets touristiques, restauration à consommer sur place ou à emporter.",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602113356",
+      "first_seen": "2026-11-02"
+    },
+    {
       "id": "A202602101005",
       "date": "2026-10-31",
       "kind": "sale",
@@ -1801,5 +1861,5 @@
       "first_seen": "2026-10-02"
     }
   ],
-  "updated_at": "2026-11-01T13:15:56+00:00"
+  "updated_at": "2026-11-02T15:43:41+00:00"
 }
