@@ -1,6 +1,66 @@
 {
   "signals": [
     {
+      "id": "A20260212651",
+      "date": "2026-11-04",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "PIKASSARIA, HOTEL PIKASSARIA",
+      "town": "Sare",
+      "postcode": "64310",
+      "departement": "Pyrénées-Atlantiques",
+      "activity": "exploitation de tout fonds de commerce d'hôtel, bar, restaurant.",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20260212651",
+      "first_seen": "2026-11-04"
+    },
+    {
+      "id": "A202602121211",
+      "date": "2026-11-04",
+      "kind": "insolvency",
+      "family": "Procédures collectives",
+      "notice": "Avis initial",
+      "company": "HOTEL DES BEAUX ARTS",
+      "town": "Toulouse",
+      "postcode": "31000",
+      "departement": "Haute-Garonne",
+      "activity": "",
+      "judgment": "Jugement de plan de redressement",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602121211",
+      "first_seen": "2026-11-04"
+    },
+    {
+      "id": "A2026021295",
+      "date": "2026-11-04",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "LA BERGE FLEURIE, DUMAS-PERES",
+      "town": "Mialet",
+      "postcode": "30140",
+      "departement": "Gard",
+      "activity": "Exploitation d'un terrain de camping et d'un établissement d'hôtellerie de plein air, location d'emplacements et de mobil-homes ; Restauration, débit de boissons non alcoolisées, snack, traiteur ; achat, vente, location et mise à disposition de mobil-homes et de toute habitation non fixée au sol ; r",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A2026021295",
+      "first_seen": "2026-11-04"
+    },
+    {
+      "id": "A20260212331",
+      "date": "2026-11-04",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "HOTEL-RESTAURANT DU LEMAND, LEMAND HOTEL",
+      "town": "Bourgoin-Jallieu, Villefontaine",
+      "postcode": "38300, 38090",
+      "departement": "Isère",
+      "activity": "Gestion, exploitation et développement d'une résidence de services à usage d'hotel de tourisme",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20260212331",
+      "first_seen": "2026-11-04"
+    },
+    {
       "id": "A202602112016",
       "date": "2026-11-02",
       "kind": "sale",
@@ -1861,5 +1921,5 @@
       "first_seen": "2026-10-02"
     }
   ],
-  "updated_at": "2026-11-03T14:06:42+00:00"
+  "updated_at": "2026-11-04T14:27:47+00:00"
 }
