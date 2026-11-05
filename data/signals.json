@@ -1,6 +1,96 @@
 {
   "signals": [
     {
+      "id": "A202602131046",
+      "date": "2026-11-05",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "HOTEL DE LA MONNAIE, MARKET",
+      "town": "Rennes",
+      "postcode": "35000",
+      "departement": "Ille-et-Vilaine",
+      "activity": "restaurant de type traditionnel, bar",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602131046",
+      "first_seen": "2026-11-05"
+    },
+    {
+      "id": "A202602132833",
+      "date": "2026-11-05",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "MOKATEL, A NIORT",
+      "town": "Niort",
+      "postcode": "79000",
+      "departement": "Deux-Sèvres",
+      "activity": "gestion hôtel et hébergement.",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602132833",
+      "first_seen": "2026-11-05"
+    },
+    {
+      "id": "A202602131529",
+      "date": "2026-11-05",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "SARL HOTEL ASTER, MORPHEA",
+      "town": "Creutzwald",
+      "postcode": "57150",
+      "departement": "Moselle",
+      "activity": "exploitation d'un fonds de commerce d'hôtellerie",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602131529",
+      "first_seen": "2026-11-05"
+    },
+    {
+      "id": "A20260213159",
+      "date": "2026-11-05",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "LAUR'EWING CORP, HOTEL DU CHILI",
+      "town": "Foix",
+      "postcode": "09000",
+      "departement": "Ariège",
+      "activity": "Café restaurant",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20260213159",
+      "first_seen": "2026-11-05"
+    },
+    {
+      "id": "A202602132232",
+      "date": "2026-11-05",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "Savage Garden, LOC'HOTEL LES CYGNES",
+      "town": "Annecy",
+      "postcode": "74960, 74000",
+      "departement": "Haute-Savoie",
+      "activity": "Location meublée de biens immobiliers.",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602132232",
+      "first_seen": "2026-11-05"
+    },
+    {
+      "id": "A202602131098",
+      "date": "2026-11-05",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "GROUPE HES, YS2L",
+      "town": "Châteauroux",
+      "postcode": "36000",
+      "departement": "Indre",
+      "activity": "exploitation d'un hôtel.",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602131098",
+      "first_seen": "2026-11-05"
+    },
+    {
       "id": "A20260212651",
       "date": "2026-11-04",
       "kind": "sale",
@@ -1921,5 +2011,5 @@
       "first_seen": "2026-10-02"
     }
   ],
-  "updated_at": "2026-11-04T14:27:47+00:00"
+  "updated_at": "2026-11-05T14:34:54+00:00"
 }
