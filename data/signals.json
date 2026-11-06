@@ -1,6 +1,66 @@
 {
   "signals": [
     {
+      "id": "A202602143225",
+      "date": "2026-11-06",
+      "kind": "insolvency",
+      "family": "Procédures collectives",
+      "notice": "Avis initial",
+      "company": "HOTEL DE LA TOUR DU PIN",
+      "town": "Lyon",
+      "postcode": "69002",
+      "departement": "Rhône",
+      "activity": "",
+      "judgment": "Jugement d'ouverture de liquidation judiciaire",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602143225",
+      "first_seen": "2026-11-06"
+    },
+    {
+      "id": "A202602141137",
+      "date": "2026-11-06",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "ATOUR HOTEL 67, CMNC",
+      "town": "Dizy, Schweighouse-sur-Moder",
+      "postcode": "51530, 67590",
+      "departement": "Bas-Rhin",
+      "activity": "création acquisition prise à bail gérance et exploitation directe ou indirecte sous toutes formes de tous fonds de commerce d'hôtel restaurant",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602141137",
+      "first_seen": "2026-11-06"
+    },
+    {
+      "id": "A202602141871",
+      "date": "2026-11-06",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "MAHALO, EKO",
+      "town": "Ambazac",
+      "postcode": "87240",
+      "departement": "Haute-Vienne",
+      "activity": "Exploitation d'un terrain de camping-Caraving, restauration rapide, épicerie, hôtellerie de plein air, location et gestion d'emplacements pour mobile home, bungalow, chalets, tentes et Tipis",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602141871",
+      "first_seen": "2026-11-06"
+    },
+    {
+      "id": "A20260214792",
+      "date": "2026-11-06",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "ROCHER DES AIGLES, MARNAC HOTEL",
+      "town": "Rocamadour",
+      "postcode": "46500",
+      "departement": "Lot",
+      "activity": "hotellerie-restauration",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20260214792",
+      "first_seen": "2026-11-06"
+    },
+    {
       "id": "A202602131046",
       "date": "2026-11-05",
       "kind": "sale",
@@ -2011,5 +2071,5 @@
       "first_seen": "2026-10-02"
     }
   ],
-  "updated_at": "2026-11-05T14:34:54+00:00"
+  "updated_at": "2026-11-06T14:12:52+00:00"
 }
