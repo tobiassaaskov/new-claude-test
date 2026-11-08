@@ -1,6 +1,111 @@
 {
   "signals": [
     {
+      "id": "A20260215294",
+      "date": "2026-11-08",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "CORSICA HOTELS ET TOURISME MANAGEMENT - COHTOUM",
+      "town": "L'Ile Rousse",
+      "postcode": "20220",
+      "departement": "Haute-Corse",
+      "activity": "",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20260215294",
+      "first_seen": "2026-11-08"
+    },
+    {
+      "id": "A202602151558",
+      "date": "2026-11-08",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "FLOR, LE POUSSICERF",
+      "town": "Saint-Gervais-les-Bains",
+      "postcode": "74170",
+      "departement": "Haute-Savoie",
+      "activity": "Hôtel restaurant.",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602151558",
+      "first_seen": "2026-11-08"
+    },
+    {
+      "id": "A202602151772",
+      "date": "2026-11-08",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "AH HOTEL 4, SAS TRAPPES ENZO",
+      "town": "Paris 8e Arrondissement, Trappes",
+      "postcode": "75008, 78190",
+      "departement": "Yvelines",
+      "activity": "fonds de commerce d'hotel",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602151772",
+      "first_seen": "2026-11-08"
+    },
+    {
+      "id": "A20260215293",
+      "date": "2026-11-08",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "CORSICA HOTELS",
+      "town": "L'Ile Rousse",
+      "postcode": "20220",
+      "departement": "Haute-Corse",
+      "activity": "",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20260215293",
+      "first_seen": "2026-11-08"
+    },
+    {
+      "id": "A202602151837",
+      "date": "2026-11-08",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "LE CHALET",
+      "town": "Gamaches",
+      "postcode": "80220",
+      "departement": "Somme",
+      "activity": "L'exploitation de tous fonds de commerce de café, bar, brasserie, restaurant, restauration traditionnelle, restauration rapide, sur place, à emporter ou en livraison, hôtel, pension et hébergement",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602151837",
+      "first_seen": "2026-11-08"
+    },
+    {
+      "id": "A202602152535",
+      "date": "2026-11-08",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "CARIBOU HOTEL, SHC SOCIETE HOTEL CARIBOU",
+      "town": "Mamoudzou",
+      "postcode": "97600",
+      "departement": "Mayotte",
+      "activity": "Hôtellerie et toutes activités s'y rattachant, l'exploitation de tous autres fonds ou établissement de même nature.",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602152535",
+      "first_seen": "2026-11-08"
+    },
+    {
+      "id": "A20260215690",
+      "date": "2026-11-08",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "Les Bougainvillées de Camargue, CHAPOT, Stéphanie, Frédérique, BOURLAND",
+      "town": "Villetelle",
+      "postcode": "34400",
+      "departement": "Hérault",
+      "activity": "- exploitation, gestion, location meublée (saisonnière ou de courte durée) de tous biens immobiliers avec fourniture de prestation para-hôtelière ou hôtelière, table d'hôte (accueil, fourniture de linge de maison, nettoyage des locaux, petits déjeuners). - - exploitation d'un espace bien-être et de ",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20260215690",
+      "first_seen": "2026-11-08"
+    },
+    {
       "id": "A202602143225",
       "date": "2026-11-06",
       "kind": "insolvency",
@@ -2071,5 +2176,5 @@
       "first_seen": "2026-10-02"
     }
   ],
-  "updated_at": "2026-11-07T12:55:45+00:00"
+  "updated_at": "2026-11-08T13:18:07+00:00"
 }
