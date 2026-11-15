@@ -1,6 +1,21 @@
 {
   "signals": [
     {
+      "id": "A202602191886",
+      "date": "2026-11-15",
+      "kind": "insolvency",
+      "family": "Procédures collectives",
+      "notice": "Avis initial",
+      "company": "BOURGOGNE HOTELS",
+      "town": "Villeneuve-l'Archevêque",
+      "postcode": "89190",
+      "departement": "Yonne",
+      "activity": "",
+      "judgment": "Jugement prononçant la résolution du plan de redressement et la liquidation judiciaire",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602191886",
+      "first_seen": "2026-11-15"
+    },
+    {
       "id": "A202602185463",
       "date": "2026-11-13",
       "kind": "insolvency",
@@ -2506,5 +2521,5 @@
       "first_seen": "2026-10-02"
     }
   ],
-  "updated_at": "2026-11-14T13:27:14+00:00"
+  "updated_at": "2026-11-15T13:53:05+00:00"
 }
