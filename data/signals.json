@@ -1,6 +1,81 @@
 {
   "signals": [
     {
+      "id": "A202602202272",
+      "date": "2026-11-17",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "DITOM 54, HOSTELLERIE DE L'ILE",
+      "town": "Custines",
+      "postcode": "54670",
+      "departement": "Meurthe-et-Moselle",
+      "activity": "Hôtel-bureaux.",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602202272",
+      "first_seen": "2026-11-17"
+    },
+    {
+      "id": "A202602202919",
+      "date": "2026-11-17",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "LI, SOCIETE HANS",
+      "town": "Lyon",
+      "postcode": "69006",
+      "departement": "Rhône",
+      "activity": "Hôtel.",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602202919",
+      "first_seen": "2026-11-17"
+    },
+    {
+      "id": "A202602202679",
+      "date": "2026-11-17",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "CA EVENTS, FMK RECEPTION",
+      "town": "Ravel",
+      "postcode": "63190",
+      "departement": "Puy-de-Dôme",
+      "activity": "hébergement touristique et autres hébergements de courte durée proposant la fourniture de prestations para-hôtelières ou connexes à l'hébergement ainsi que la petite restauration, vente de toute denrée alimentaire brute ou élaborée ainsi que de toute boisson. - l'exploitation d'infrastructures de lo",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602202679",
+      "first_seen": "2026-11-17"
+    },
+    {
+      "id": "A202602204534",
+      "date": "2026-11-17",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "MADAURE, HOTEL MFS",
+      "town": "Saint-Denis",
+      "postcode": "93200",
+      "departement": "Seine-Saint-Denis",
+      "activity": "hôtel, bar et restaurant",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602204534",
+      "first_seen": "2026-11-17"
+    },
+    {
+      "id": "A20260220121",
+      "date": "2026-11-17",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "INFINITY, AUBERGE DU CASTELLAS",
+      "town": "Sainte-Croix-du-Verdon",
+      "postcode": "04500",
+      "departement": "Alpes-de-Haute-Provence",
+      "activity": "hôtel, restaurant, vente à emporter, activités de traiteur, cours de cuisine",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20260220121",
+      "first_seen": "2026-11-17"
+    },
+    {
       "id": "A202602191886",
       "date": "2026-11-15",
       "kind": "insolvency",
@@ -2521,5 +2596,5 @@
       "first_seen": "2026-10-02"
     }
   ],
-  "updated_at": "2026-11-16T15:38:26+00:00"
+  "updated_at": "2026-11-17T15:55:46+00:00"
 }
