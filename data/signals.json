@@ -1,6 +1,96 @@
 {
   "signals": [
     {
+      "id": "A202602211222",
+      "date": "2026-11-18",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "ROCHER DES AIGLES, MARNAC HOTEL",
+      "town": "Rocamadour",
+      "postcode": "46500",
+      "departement": "Lot",
+      "activity": "hôtellerie-restauration",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602211222",
+      "first_seen": "2026-11-18"
+    },
+    {
+      "id": "A202602211734",
+      "date": "2026-11-18",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "BEAUVAIS K, SAINT-CHAMOND COMPIEGNE BEAUVAIS INVEST HOTELS",
+      "town": "Paris, Beauvais",
+      "postcode": "75016, 60000",
+      "departement": "Oise",
+      "activity": "Fonds de commerce d'hôtel.",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602211734",
+      "first_seen": "2026-11-18"
+    },
+    {
+      "id": "A202602212201",
+      "date": "2026-11-18",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "HOTEL DES BEAUX ARTS, SP HOTEL LES VOYAGEURS",
+      "town": "Chambéry",
+      "postcode": "73000",
+      "departement": "Savoie",
+      "activity": "hôtel, restaurant, bar. location de meublés, location logement.",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602212201",
+      "first_seen": "2026-11-18"
+    },
+    {
+      "id": "A202602212927",
+      "date": "2026-11-18",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "HOTEL VILLA BELROSE",
+      "town": "Gassin",
+      "postcode": "83580",
+      "departement": "Var",
+      "activity": "",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602212927",
+      "first_seen": "2026-11-18"
+    },
+    {
+      "id": "A202602212200",
+      "date": "2026-11-18",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "C&D HOTEL, SP GROUPE HOTEL",
+      "town": "Chambéry, Viviers-du-Lac",
+      "postcode": "73000, 73420",
+      "departement": "Savoie",
+      "activity": "hôtel, restaurant, bar, location de meublés, location de logement, organisation d'évènements, traiteur.",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602212200",
+      "first_seen": "2026-11-18"
+    },
+    {
+      "id": "A202602211194",
+      "date": "2026-11-18",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "5 + 2, LE BEAUGENCY",
+      "town": "Beaugency",
+      "postcode": "45190",
+      "departement": "Loiret",
+      "activity": "Hôtel-restaurant",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602211194",
+      "first_seen": "2026-11-18"
+    },
+    {
       "id": "A202602202272",
       "date": "2026-11-17",
       "kind": "sale",
@@ -2596,5 +2686,5 @@
       "first_seen": "2026-10-02"
     }
   ],
-  "updated_at": "2026-11-17T15:55:46+00:00"
+  "updated_at": "2026-11-18T15:35:23+00:00"
 }
