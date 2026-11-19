@@ -1,6 +1,51 @@
 {
   "signals": [
     {
+      "id": "A20260222370",
+      "date": "2026-11-19",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "JF TOUL, LUNI",
+      "town": "Toul",
+      "postcode": "54200",
+      "departement": "Meurthe-et-Moselle",
+      "activity": "Exploitation d'un hôtel, location de chambres meublées, restauration sans vente d'alcool.",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20260222370",
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "A202602221583",
+      "date": "2026-11-19",
+      "kind": "insolvency",
+      "family": "Procédures collectives",
+      "notice": "Avis initial",
+      "company": "VILLA AULTIA HOTEL",
+      "town": "Ault",
+      "postcode": "80460",
+      "departement": "Oise",
+      "activity": "",
+      "judgment": "Jugement de clôture pour insuffisance d'actif",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602221583",
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "A20260222201",
+      "date": "2026-11-19",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "CAFE RESTAURANT DE LA POSTE, FMDE",
+      "town": "Longages",
+      "postcode": "31410",
+      "departement": "Haute-Garonne",
+      "activity": "Restauration traditionnelle ; chef à domicile, traiteur sous toutes formes ; reporter culinaire, cours de cuisine ; prestations de services dans les domaines de l'hôtellerie, la restauration et lieux de réception ; salon de thé",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20260222201",
+      "first_seen": "2026-11-19"
+    },
+    {
       "id": "A202602211222",
       "date": "2026-11-18",
       "kind": "sale",
@@ -2686,5 +2731,5 @@
       "first_seen": "2026-10-02"
     }
   ],
-  "updated_at": "2026-11-18T15:35:23+00:00"
+  "updated_at": "2026-11-19T15:41:22+00:00"
 }
