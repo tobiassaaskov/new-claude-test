@@ -1,6 +1,51 @@
 {
   "signals": [
     {
+      "id": "A2026022329",
+      "date": "2026-11-20",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "NOUVELLE SOCIETE HOTELIERE VICHYSSOISE",
+      "town": "Vichy",
+      "postcode": "03200",
+      "departement": "Allier",
+      "activity": "",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A2026022329",
+      "first_seen": "2026-11-20"
+    },
+    {
+      "id": "A202602233580",
+      "date": "2026-11-20",
+      "kind": "insolvency",
+      "family": "Procédures collectives",
+      "notice": "Avis initial",
+      "company": "COPROPRIETE HOTEL PAS DE BEAULIEU",
+      "town": "Montpellier, Pérols",
+      "postcode": "34000, 34470",
+      "departement": "Hérault",
+      "activity": "",
+      "judgment": "Autre jugement et ordonnance",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602233580",
+      "first_seen": "2026-11-20"
+    },
+    {
+      "id": "A20260223407",
+      "date": "2026-11-20",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "HOTEL ANTARES",
+      "town": "La Rivière-Saint-Sauveur",
+      "postcode": "14600",
+      "departement": "Calvados",
+      "activity": "",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20260223407",
+      "first_seen": "2026-11-20"
+    },
+    {
       "id": "A20260222370",
       "date": "2026-11-19",
       "kind": "sale",
@@ -2731,5 +2776,5 @@
       "first_seen": "2026-10-02"
     }
   ],
-  "updated_at": "2026-11-19T15:41:22+00:00"
+  "updated_at": "2026-11-20T15:23:02+00:00"
 }
