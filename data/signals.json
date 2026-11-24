@@ -1,6 +1,66 @@
 {
   "signals": [
     {
+      "id": "A202602251041",
+      "date": "2026-11-24",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "ABREUVOIR HOSPITALITY, CROISIERE DES LANDES",
+      "town": "Héric",
+      "postcode": "44810",
+      "departement": "Loire-Atlantique",
+      "activity": "L'exploitation et la gestion de tous établissements hôteliers, de restauration, de bar (licence IV) et de traiteur.",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602251041",
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "A202602253294",
+      "date": "2026-11-24",
+      "kind": "insolvency",
+      "family": "Procédures collectives",
+      "notice": "Avis initial",
+      "company": "HOTEL DES VOSGES",
+      "town": "Nancy",
+      "postcode": "54000",
+      "departement": "Meurthe-et-Moselle",
+      "activity": "",
+      "judgment": "Dépôt de l'état des créances",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602253294",
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "A202602251884",
+      "date": "2026-11-24",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "HOTEL DU SEJOUR, HOTELIERE SEJOUR BEAUBOURG",
+      "town": "Paris",
+      "postcode": "75003",
+      "departement": "Paris",
+      "activity": "",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602251884",
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "A202602251885",
+      "date": "2026-11-24",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "HOTELIERE SEJOUR BEAUBOURG",
+      "town": "Paris",
+      "postcode": "75003",
+      "departement": "Paris",
+      "activity": "",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602251885",
+      "first_seen": "2026-11-24"
+    },
+    {
       "id": "A202602243285",
       "date": "2026-11-22",
       "kind": "sale",
@@ -2941,5 +3001,5 @@
       "first_seen": "2026-10-02"
     }
   ],
-  "updated_at": "2026-11-23T17:59:17+00:00"
+  "updated_at": "2026-11-24T17:37:09+00:00"
 }
