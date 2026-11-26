@@ -1,6 +1,66 @@
 {
   "signals": [
     {
+      "id": "A2026022728",
+      "date": "2026-11-26",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "AH HOTEL 21, 178",
+      "town": "Paris 8e Arrondissement, Bellerive-sur-Allier",
+      "postcode": "75008, 03700",
+      "departement": "Allier",
+      "activity": "hôtels et hébergement similaire",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A2026022728",
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "A202602273162",
+      "date": "2026-11-26",
+      "kind": "insolvency",
+      "family": "Procédures collectives",
+      "notice": "Avis initial",
+      "company": "ART LEASE HOTEL",
+      "town": "Boulogne-Billancourt",
+      "postcode": "92100",
+      "departement": "Hauts-de-Seine",
+      "activity": "",
+      "judgment": "Jugement d'ouverture de liquidation judiciaire",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602273162",
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "A2026022727",
+      "date": "2026-11-26",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "AH HOTEL 21, BIENVENUE",
+      "town": "Paris 8e Arrondissement, Bellerive-sur-Allier",
+      "postcode": "75008, 03700",
+      "departement": "Allier",
+      "activity": "hôtels et hébergement similaire",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A2026022727",
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "A202602271180",
+      "date": "2026-11-26",
+      "kind": "sale",
+      "family": "Ventes et cessions",
+      "notice": "Avis initial",
+      "company": "CEMALONA, AJAS",
+      "town": "Saint-Jean-Pied-de-Port",
+      "postcode": "64220",
+      "departement": "Pyrénées-Atlantiques",
+      "activity": "hôtel bar restaurant",
+      "judgment": "",
+      "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602271180",
+      "first_seen": "2026-11-26"
+    },
+    {
       "id": "A202602265457",
       "date": "2026-11-25",
       "kind": "insolvency",
@@ -3241,5 +3301,5 @@
       "first_seen": "2026-10-02"
     }
   ],
-  "updated_at": "2026-11-25T17:08:30+00:00"
+  "updated_at": "2026-11-26T16:49:50+00:00"
 }
